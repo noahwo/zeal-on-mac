@@ -1,2 +1,22 @@
 # zeal-on-mac
 A solution to build Zeal on Mac machines
+
+The original post is [here](https://github.com/shabbyrobe/zeal), by [@shabbyrobe
+](https://github.com/shabbyrobe).
+
+Use shabbyrobe's folk instead of the official one since the WebEngine of Qt5 is not compatible with arm64. To use Qt6, modifications are done in repo https://github.com/shabbyrobe/zeal.
+
+
+### build instructions
+```bash
+brew install qt@6
+brew install libarchive
+export CMAKE_PREFIX_PATH="$(brew --prefix qt@6):$(brew --prefix libarchive)"
+git clone https://github.com/shabbyrobe/zeal.git
+cd zeal
+mkdir build
+cd build
+cmake ..
+make -j 8
+
+```
