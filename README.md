@@ -20,4 +20,4 @@ make -j 8
 
 ```
 
-My MacBook Pro 13-inch 2011 macOS 13.1 works well with thess instructions on 30 Dec, 2022.
+My MacBook Pro 13-inch 2011 macOS 13.1 works well with these instructions on 30 Dec, 2022.
