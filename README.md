@@ -1,7 +1,7 @@
 # zeal-on-mac
 A solution to build Zeal on Mac machines
 
-The original post is [here](https://github.com/shabbyrobe/zeal), by [@shabbyrobe
+The original post is [here]([https://github.com/shabbyrobe/zeal](https://github.com/zealdocs/zeal/issues/1372#issuecomment-1063588413)), by [@shabbyrobe
 ](https://github.com/shabbyrobe).
 
 Use shabbyrobe's folk instead of the official one since the WebEngine of Qt5 is not compatible with arm64. To use Qt6, modifications are done in repo https://github.com/shabbyrobe/zeal.
