@@ -1,5 +1,5 @@
 # zeal-on-mac
-A solution to build Zeal on Mac machines
+A solution to build Zeal on Apple-Silicon Mac machines
 
 #### The original post is [here](https://github.com/zealdocs/zeal/issues/1372#issuecomment-1063588413) by [@shabbyrobe](https://github.com/shabbyrobe).
 
