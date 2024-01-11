@@ -1,6 +1,8 @@
 # zeal-on-mac
-A solution to build Zeal on Apple-Silicon Mac machines. Out-of-box binary application file is in Releases.
-My MacBook Pro 14-inch with m1pro macOS 13.1 works well with these instructions on 30 Dec, 2022.
+A solution to build Zeal on Apple-Silicon Mac machines. My MacBook Pro 14-inch with m1pro macOS 13.1 works well with these instructions on 30 Dec, 2022.
+
+
+**Out-of-box binary application file is in Releases.**
 
 #### The original post is [here](https://github.com/zealdocs/zeal/issues/1372#issuecomment-1063588413) by [@shabbyrobe](https://github.com/shabbyrobe).
 
